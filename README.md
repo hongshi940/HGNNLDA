@@ -3,7 +3,7 @@
 
 Quick start
 
-To reproduce our results:Run test.py to run HGNNLDA
+Run HGNNLDA.py to extract features of nodes and run test.py reproduce result
 
 Data description
 
